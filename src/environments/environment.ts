@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCoRfidXM4HFAV3OKUTzJP2ZDVzgTEOouQ',
-    authDomain: 'ngfbauth-628cf.firebaseapp.com',
-    databaseURL: 'https://ngfbauth-628cf.firebaseio.com',
-    projectId: 'ngfbauth-628cf',
-    storageBucket: 'ngfbauth-628cf.appspot.com',
-    messagingSenderId: '874018556575'
+    apiKey: "AIzaSyBog7oMzq7e4zQMKjkTOygeIPufsvXfqsA",
+    authDomain: "diet-tracker-24cca.firebaseapp.com",
+    databaseURL: "https://diet-tracker-24cca.firebaseio.com",
+    projectId: "diet-tracker-24cca",
+    storageBucket: "diet-tracker-24cca.appspot.com",
+    messagingSenderId: "107361449335"
   }
 };
